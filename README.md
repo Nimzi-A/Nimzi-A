@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Nimesha 👋
 
-<!--
-**Nimzi-A/Nimzi-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Quality Assurance Engineer with 8+ years of experience in automation and manual testing.
 
-Here are some ideas to get you started:
+🔹 Playwright (C#) UI Automation
+🔹 API Automation with Postman
+🔹 CI/CD pipelines using GitHub Actions
+🔹 SQL and database validation
+🔹 Agile Scrum testing practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+• Playwright UI Automation Framework (POM)
+• API Automation Demo – Postman + Newman + GitHub Actions
+
+Currently working on improving automation coverage and CI/CD integration.
