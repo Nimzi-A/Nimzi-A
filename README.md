@@ -8,8 +8,12 @@ Software Quality Assurance Engineer with 8+ years of experience in automation an
 🔹 SQL and database validation
 🔹 Agile Scrum testing practices
 
-Projects
-• Playwright UI Automation Framework (POM)
-• API Automation Demo – Postman + Newman + GitHub Actions
+## Projects
+
+🔹 Playwright UI Automation Framework (POM)
+https://github.com/Nimzi-A/UIAutomation
+
+🔹 API Automation Demo – Postman + Newman + GitHub Actions
+https://github.com/Nimzi-A/ApiAutomationWithPostman
 
 Currently working on improving automation coverage and CI/CD integration.
